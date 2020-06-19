@@ -1,0 +1,14 @@
+{
+    "name": "win7/oop-praktikum-8",
+    "description": "Praktikum 8 Pemrograman Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "nayanathasa",
+            "email": "nathasanaya@gmail.com"
+        }
+    ]
+}
